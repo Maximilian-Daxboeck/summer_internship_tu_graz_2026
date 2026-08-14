@@ -1,3 +1,5 @@
+# I accidently uploaded this file twice and I don't know how to remove it, so it will stay here...
+
 from bayes_classifier_v2 import *
 
 import os
